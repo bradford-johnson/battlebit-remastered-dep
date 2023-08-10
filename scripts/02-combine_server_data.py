@@ -2,7 +2,7 @@ import os
 import pandas as pd
 from datetime import datetime
 
-data_directory = os.path.join(os.path.dirname(__file__), "..", "servers")
+data_directory = os.path.join(os.path.dirname(__file__), "..", "servers-data")
 
 csv_files = [file for file in os.listdir(data_directory) if file.endswith(".csv")]
 
