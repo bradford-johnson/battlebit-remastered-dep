@@ -1,4 +1,4 @@
-name: Capture JSON Data
+name: Get server JSON data
 
 on:
   schedule:
