@@ -1,4 +1,4 @@
-name: Get server JSON data
+name: Hourly game server data pull
 
 on:
   schedule:
