@@ -5,7 +5,7 @@ import os
 
 url = "https://publicapi.battlebit.cloud/Servers/GetServerList"
 
-directory = "servers"
+directory = "servers-data"
 
 try:
     response = requests.get(url)
