@@ -1,0 +1,115 @@
+Name,Map,MapSize,Gamemode,Region,Players,QueuePlayers,MaxPlayers,Hz,DayNight,IsOfficial,HasPassword,AntiCheat,Build
+194-BX-00,SandySunset,Ultra,FRONTLINE,Australia_Central,207,1,254,60,Day,True,False,EAC,Production 2.0.2
+194-J4-00,Basra,Ultra,CONQ,Australia_Central,252,2,254,60,Day,True,False,EAC,Production 2.0.2
+190-JC-02,TensaTown,Medium,RUSH,Europe_Central,56,7,64,60,Day,True,False,EAC,Production 2.0.2
+174-J8-00,Frugis,Big,DOMI,America_Central,90,7,128,60,Day,True,False,EAC,Production 2.0.2
+190-JY-02,Lonovo,Big,DOMI,Europe_Central,120,6,128,60,Night,True,False,EAC,Production 2.0.2
+177-JN-00,Salhan,Medium,RUSH,Europe_Central,63,0,64,60,Day,True,False,EAC,Production 2.0.2
+190-J8-02,SandySunset,Ultra,CONQ,Europe_Central,251,3,254,60,Day,True,False,EAC,Production 2.0.2
+190-J8-00,Salhan,Big,DOMI,Europe_Central,102,9,128,60,Day,True,False,EAC,Production 2.0.2
+[TLR] PUGS #1 | discord.gg/tlr,Azagor,Small,TDM,Europe_Central,0,0,32,240,Day,False,True,EAC,Production 2.0.2
+190-8V-01,SandySunset,Medium,DOMI,Europe_Central,45,2,64,60,Day,True,False,EAC,Production 2.0.2
+172-L4-00,District,Medium,CONQ,Japan_Central,59,4,64,60,Day,True,False,EAC,Production 2.0.2
+176-AL-00,TensaTown,Ultra,CONQ,America_Central,250,4,254,60,Day,True,False,EAC,Production 2.0.2
+172-2R-00,Valley,Ultra,CONQ,Japan_Central,253,0,254,60,Day,True,False,EAC,Production 2.0.2
+190-JD-01,Wakistan,Ultra,CONQ,Europe_Central,252,2,254,60,Day,True,False,EAC,Production 2.0.2
+172-2-00,Azagor,Ultra,DOMI,Japan_Central,196,3,254,60,Day,True,False,EAC,Production 2.0.2
+188-LC-01,Isle,Medium,DOMI,America_Central,24,6,64,60,Day,True,False,EAC,Production 2.0.2
+184-JG-02,Wakistan,Big,DOMI,America_Central,127,1,128,60,Day,True,False,EAC,Production 2.0.2
+[TLR] The Last Rifles [EU2] | discord.gg/tlr,District,Ultra,CONQ,Europe_Central,254,0,254,240,Day,False,False,EAC,Production 2.0.2
+190-JN-00,Wakistan,Ultra,CONQ,Europe_Central,249,5,254,60,Day,True,False,EAC,Production 2.0.2
+190-8Z-01,SandySunset,Big,DOMI,Europe_Central,125,3,128,60,Day,True,False,EAC,Production 2.0.2
+194-2G-00,WineParadise,Ultra,CONQ,Australia_Central,151,0,254,60,Day,True,False,EAC,Production 2.0.2
+190-JY-00,TensaTown,Medium,RUSH,Europe_Central,64,0,64,60,Day,True,False,EAC,Production 2.0.2
+186-LD-00,Basra,Ultra,CONQ,America_Central,253,1,254,60,Day,True,False,EAC,Production 2.0.2
+172-J4-00,Namak,Ultra,DOMI,Japan_Central,175,3,254,60,Day,True,False,EAC,Production 2.0.2
+172-8Z-00,Namak,Medium,DOMI,Japan_Central,63,1,64,60,Day,True,False,EAC,Production 2.0.2
+172-B6-00,District,Ultra,DOMI,Japan_Central,254,0,254,60,Day,True,False,EAC,Production 2.0.2
+172-X-00,Valley,Ultra,DOMI,Japan_Central,231,4,254,60,Day,True,False,EAC,Production 2.0.2
+177-J8-00,Frugis,Ultra,CONQ,Europe_Central,250,4,254,60,Day,True,False,EAC,Production 2.0.2
+174-J2-00,Wakistan,Ultra,CONQ,America_Central,199,5,254,60,Day,True,False,EAC,Production 2.0.2
+172-86-00,Namak,Medium,DOMI,Japan_Central,62,2,64,60,Day,True,False,EAC,Production 2.0.2
+172-A2-00,Salhan,Medium,DOMI,Japan_Central,63,0,64,60,Day,True,False,EAC,Production 2.0.2
+190-JC-01,Frugis,Big,DOMI,Europe_Central,126,2,128,60,Day,True,False,EAC,Production 2.0.2
+177-8Q-01,District,Ultra,CONQ,Europe_Central,251,3,254,60,Day,True,False,EAC,Production 2.0.2
+177-8Q-00,Wakistan,Big,CONQ,Europe_Central,126,2,128,60,Day,True,False,EAC,Production 2.0.2
+194-2R-00,Salhan,Ultra,CONQ,Australia_Central,180,0,254,60,Day,True,False,EAC,Production 2.0.2
+172-B2-00,Valley,Ultra,CONQ,Japan_Central,177,3,254,60,Day,True,False,EAC,Production 2.0.2
+174-JM-01,Construction,Big,DOMI,America_Central,126,2,128,60,Day,True,False,EAC,Production 2.0.2
+172-21-00,Isle,Ultra,DOMI,Japan_Central,252,2,254,60,Day,True,False,EAC,Production 2.0.2
+188-LD-01,Valley,Ultra,DOMI,America_Central,157,4,254,60,Day,True,False,EAC,Production 2.0.2
+[TLR] The Last Rifles [EU3] | discord.gg/tlr,Basra,Ultra,CONQ,Europe_Central,253,1,254,240,Day,False,False,EAC,Production 2.0.2
+177-J7-01,Eduardovo,Medium,DOMI,Europe_Central,62,2,64,60,Day,True,False,EAC,Production 2.0.2
+177-8V-00,Frugis,Ultra,CONQ,Europe_Central,252,2,254,60,Day,True,False,EAC,Production 2.0.2
+177-JD-00,WineParadise,Ultra,CONQ,Europe_Central,246,8,254,60,Day,True,False,EAC,Production 2.0.2
+177-JP-02,Isle,Medium,DOMI,Europe_Central,63,1,64,60,Day,True,False,EAC,Production 2.0.2
+177-8Z-00,Valley,Big,CONQ,Europe_Central,127,1,128,60,Day,True,False,EAC,Production 2.0.2
+190-8Q-00,District,Medium,RUSH,Europe_Central,62,2,64,60,Day,True,False,EAC,Production 2.0.2
+188-LP-02,District,Medium,RUSH,America_Central,62,2,64,60,Day,True,False,EAC,Production 2.0.2
+Quakecon Lan Party Event,TensaTown,Tiny,TDM,America_Central,0,0,36,120,Day,True,True,EAC,Production 2.0.2
+188-LP-03,Salhan,Medium,RUSH,America_Central,64,0,64,60,Day,True,False,EAC,Production 2.0.2
+190-JP-01,Salhan,Medium,DOMI,Europe_Central,50,3,64,60,Day,True,False,EAC,Production 2.0.2
+190-JY-01,Namak,Medium,RUSH,Europe_Central,63,0,64,60,Day,True,False,EAC,Production 2.0.2
+188-LD-00,TensaTown,Medium,RUSH,America_Central,64,0,64,60,Day,True,False,EAC,Production 2.0.2
+177-JN-01,SandySunset,Ultra,FRONTLINE,Europe_Central,252,2,254,60,Day,True,False,EAC,Production 2.0.2
+177-8Z-02,Valley,Medium,RUSH,Europe_Central,44,2,64,60,Day,True,False,EAC,Production 2.0.2
+177-8Z-01,Namak,Medium,DOMI,Europe_Central,64,0,64,60,Day,True,False,EAC,Production 2.0.2
+[TLR] The Last Rifles [EU5] | discord.gg/tlr,Valley,Medium,DOMI,Europe_Central,64,0,64,240,Day,False,False,EAC,Production 2.0.2
+177-JC-01,Wakistan,Big,CONQ,Europe_Central,127,1,128,60,Day,True,False,EAC,Production 2.0.2
+190-J8-01,Namak,Medium,RUSH,Europe_Central,63,1,64,60,Day,True,False,EAC,Production 2.0.2
+190-JC-00,Namak,Medium,DOMI,Europe_Central,63,1,64,60,Day,True,False,EAC,Production 2.0.2
+190-JP-00,Basra,Ultra,CONQ,Europe_Central,244,9,254,60,Day,True,False,EAC,Production 2.0.2
+172-8X-00,Namak,Ultra,DOMI,Japan_Central,196,9,254,60,Day,True,False,EAC,Production 2.0.2
+172-Z-00,Isle,Medium,DOMI,Japan_Central,64,0,64,60,Day,True,False,EAC,Production 2.0.2
+[TLR] The Last Rifles [EU1] | discord.gg/tlr,WineParadise,Ultra,CONQ,Europe_Central,254,0,254,240,Day,False,False,EAC,Production 2.0.2
+172-BX-00,Namak,Ultra,DOMI,Japan_Central,236,8,254,60,Day,True,False,EAC,Production 2.0.2
+[TLR] Battlebit League #2 | discord.gg/tlr,Azagor,Small,TDM,Europe_Central,0,0,32,240,Day,False,True,EAC,Production 2.0.2
+172-JG-00,Wakistan,Ultra,CONQ,Japan_Central,248,5,254,60,Day,True,False,EAC,Production 2.0.2
+24/7 Voxel Gamemode Testing,VoxelLand,Ultra,VoxelFortify,Developer_Server,0,0,254,60,Day,True,False,EAC,Production 2.0.2
+190-8V-00,Salhan,Medium,RUSH,Europe_Central,60,4,64,60,Day,True,False,EAC,Production 2.0.2
+189-8N-02,Wakistan,Big,DOMI,Europe_Central,123,4,128,60,Day,True,False,EAC,Production 2.0.2
+194-J4-01,Namak,Ultra,DOMI,Australia_Central,143,0,254,60,Day,True,False,EAC,Production 2.0.2
+190-8Z-00,Namak,Medium,RUSH,Europe_Central,63,1,64,60,Day,True,False,EAC,Production 2.0.2
+177-JC-02,Basra,Big,CONQ,Europe_Central,125,3,128,60,Day,True,False,EAC,Production 2.0.2
+190-JD-00,Wakistan,Medium,DOMI,Europe_Central,62,2,64,60,Day,True,False,EAC,Production 2.0.2
+177-89-01,WineParadise,Big,DOMI,Europe_Central,125,3,128,60,Day,True,False,EAC,Production 2.0.2
+190-JC-03,Isle,Ultra,DOMI,Europe_Central,96,21,254,60,Day,True,False,EAC,Production 2.0.2
+174-JB-02,Eduardovo,Ultra,CONQ,America_Central,211,14,254,60,Day,True,False,EAC,Production 2.0.2
+190-8Q-01,WineParadise,Ultra,CONQ,Europe_Central,252,2,254,60,Day,True,False,EAC,Production 2.0.2
+[TLR] The Last Rifles [EU4] | discord.gg/tlr,Basra,Big,CONQ,Europe_Central,127,1,128,240,Day,False,False,EAC,Production 2.0.2
+172-24-00,Namak,Medium,DOMI,Japan_Central,63,0,64,60,Day,True,False,EAC,Production 2.0.2
+172-JR-00,Azagor,Ultra,DOMI,Japan_Central,197,5,254,60,Day,True,False,EAC,Production 2.0.2
+190-J7-02,Basra,Ultra,CONQ,Europe_Central,251,2,254,60,Day,True,False,EAC,Production 2.0.2
+174-8Y-05,Eduardovo,Big,CONQ,America_Central,126,2,128,60,Day,True,False,EAC,Production 2.0.2
+176-JR-01,Frugis,Ultra,CONQ,America_Central,225,6,254,60,Day,True,False,EAC,Production 2.0.2
+177-J7-00,SandySunset,Ultra,CONQ,Europe_Central,254,0,254,60,Day,True,False,EAC,Production 2.0.2
+177-89-00,SandySunset,Big,CONQ,Europe_Central,124,4,128,60,Day,True,False,EAC,Production 2.0.2
+ [03][144Hz][Cla BR] Sem Chorar [32vs32],TensaTown,Medium,DOMI,Brazil_Central,62,2,64,144,Day,False,False,EAC,Production 2.0.2
+[TLR] Battlebit Blitz [EU #1] | discord.gg/tlr,Azagor,Small,TDM,Europe_Central,0,0,32,240,Day,False,True,EAC,Production 2.0.2
+185-LV-00,Frugis,Ultra,CONQ,America_Central,248,5,254,60,Day,True,False,EAC,Production 2.0.2
+172-BZ-00,Wakistan,Ultra,DOMI,Japan_Central,252,2,254,60,Day,True,False,EAC,Production 2.0.2
+172-82-00,Valley,Ultra,CONQ,Japan_Central,251,3,254,60,Day,True,False,EAC,Production 2.0.2
+190-8Z-02,Wakistan,Ultra,CONQ,Europe_Central,251,3,254,60,Day,True,False,EAC,Production 2.0.2
+190-J7-01,TensaTown,Medium,RUSH,Europe_Central,63,0,64,60,Day,True,False,EAC,Production 2.0.2
+194-2G-01,Wakistan,Ultra,CONQ,Australia_Central,135,0,254,60,Day,True,False,EAC,Production 2.0.2
+177-JP-01,Salhan,Medium,RUSH,Europe_Central,62,2,64,60,Day,True,False,EAC,Production 2.0.2
+172-BP-00,Isle,Medium,DOMI,Japan_Central,62,1,64,60,Day,True,False,EAC,Production 2.0.2
+189-8N-00,Eduardovo,Big,CONQ,Europe_Central,125,3,128,60,Day,True,False,EAC,Production 2.0.2
+177-JP-00,Eduardovo,Big,CONQ,Europe_Central,126,2,128,60,Day,True,False,EAC,Production 2.0.2
+[TLR] Battlebit Blitz [EU #3] | discord.gg/tlr,Azagor,Small,TDM,Europe_Central,0,0,32,240,Day,False,True,EAC,Production 2.0.2
+172-8P-00,MultuIslands,Medium,DOMI,Japan_Central,63,1,64,60,Day,True,False,EAC,Production 2.0.2
+172-P-00,Valley,Medium,DOMI,Japan_Central,62,0,64,60,Day,True,False,EAC,Production 2.0.2
+190-8V-02,District,Ultra,CONQ,Europe_Central,250,4,254,60,Day,True,False,EAC,Production 2.0.2
+188-LC-00,Namak,Medium,RUSH,America_Central,64,0,64,60,Day,True,False,EAC,Production 2.0.2
+174-JM-00,Namak,Medium,RUSH,America_Central,63,1,64,60,Day,True,False,EAC,Production 2.0.2
+177-JC-00,Valley,Medium,DOMI,Europe_Central,64,0,64,60,Day,True,False,EAC,Production 2.0.2
+189-8N-01,District,Big,DOMI,Europe_Central,127,1,128,60,Day,True,False,EAC,Production 2.0.2
+194-JJ-00,Basra,Ultra,CONQ,America_Central,250,4,254,60,Day,True,False,EAC,Production 2.0.2
+176-JY-04,Frugis,Ultra,CONQ,America_Central,251,3,254,60,Day,True,False,EAC,Production 2.0.2
+ [01][144Hz][Cla BR] Sem Chorar [127vs127],TensaTown,Ultra,CONQ,Brazil_Central,251,3,254,144,Day,False,False,EAC,Production 2.0.2
+190-J7-00,Salhan,Medium,RUSH,Europe_Central,60,4,64,60,Day,True,False,EAC,Production 2.0.2
+[TLR] Battlebit Blitz [EU #2] | discord.gg/tlr,Azagor,Small,TDM,Europe_Central,0,0,32,240,Day,False,True,EAC,Production 2.0.2
+190-Y-00,SandySunset,Ultra,CONQ,Brazil_Central,137,7,254,60,Day,True,False,EAC,Production 2.0.2
+ [02][144Hz][Cla BR] Sem Chorar [64vs64],TensaTown,Big,DOMI,Brazil_Central,109,9,128,144,Day,False,False,EAC,Production 2.0.2
+[TLR] Battlebit League #1 | discord.gg/tlr,Azagor,Small,TDM,Europe_Central,0,0,32,240,Day,False,True,EAC,Production 2.0.2
+176-JY-01,Isle,Big,DOMI,America_Central,127,1,128,60,Day,True,False,EAC,Production 2.0.2
