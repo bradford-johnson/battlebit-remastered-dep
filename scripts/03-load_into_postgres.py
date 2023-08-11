@@ -18,7 +18,8 @@ def normalize_column_name(name):
         >>> normalize_column_name("Column Name")
         "column_name"
     """
-    name = "".join(["_" + c.lower() if c.isupper() else c for c in name]).lstrip("_")
+    name = "".join(["_" + c.lower() if c.isupper()
+                   else c for c in name]).lstrip("_")
 
     name = name.replace(" ", "_").lower()
 
@@ -33,7 +34,8 @@ postgres_password = env_vars.get("DB_PASSWORD")
 df = pd.read_csv("data/master_combined.csv")
 
 df["DateTimestamp"] = (
-    pd.to_datetime(df["DateTimestamp"]).dt.tz_localize(None).dt.tz_localize("UTC")
+    pd.to_datetime(df["DateTimestamp"]).dt.tz_localize(
+        None).dt.tz_localize("UTC")
 )
 
 df.columns = [normalize_column_name(col) for col in df.columns]
