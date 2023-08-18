@@ -1,0 +1,128 @@
+Name,Map,MapSize,Gamemode,Region,Players,QueuePlayers,MaxPlayers,Hz,DayNight,IsOfficial,HasPassword,AntiCheat,Build
+186-LD-02,WineParadise,Medium,DOMI,America_Central,64,0,64,60,Day,True,False,EAC,Production 2.0.2
+174-J8-02,Valley,Big,CONQ,America_Central,126,2,128,60,Day,True,False,EAC,Production 2.0.2
+194-JJ-03,Isle,Big,DOMI,America_Central,126,2,128,60,Day,True,False,EAC,Production 2.0.2
+176-AL-02,Frugis,Ultra,CONQ,America_Central,253,1,254,60,Day,True,False,EAC,Production 2.0.2
+186-L8-02,Lonovo,Medium,RUSH,America_Central,63,1,64,60,Day,True,False,EAC,Production 2.0.2
+185-LV-00,WineParadise,Ultra,CONQ,America_Central,188,3,254,60,Day,True,False,EAC,Production 2.0.2
+174-82-01,Basra,Ultra,CONQ,America_Central,250,4,254,60,Day,True,False,EAC,Production 2.0.2
+[E4GL] DevServer,Salhan,Tiny,TDM,Europe_Central,0,0,36,120,Day,False,True,EAC,Production 2.0.2 - Community Servers
+174-J2-03,Dustydew,Big,CONQ,America_Central,127,0,128,60,Day,True,False,EAC,Production 2.0.2
+[TLR] The Last Rifles [EU1] | discord.gg/tlr,Basra,Ultra,CONQ,Europe_Central,34,1,254,240,Day,False,False,EAC,Production 2.0.2
+[JPN] FPS Syndrome Test Server,Azagor,Small,TDM,Japan_Central,0,0,32,120,Day,False,True,EAC,Production 2.0.2 - Community Servers
+174-8Y-01,District,Big,CONQ,America_Central,126,2,128,60,Day,True,False,EAC,Production 2.0.2
+186-LD-03,SandySunset,Medium,CaptureTheFlag,America_Central,63,1,64,60,Day,True,False,EAC,Production 2.0.2
+186-L7-00,TensaTown,Medium,RUSH,America_Central,63,1,64,60,Day,True,False,EAC,Production 2.0.2
+185-LV-03,SandySunset,Ultra,FRONTLINE,America_Central,236,11,254,60,Day,True,False,EAC,Production 2.0.2
+176-JR-03,TensaTown,Medium,RUSH,America_Central,63,1,64,60,Day,True,False,EAC,Production 2.0.2
+186-LD-05,Basra,Big,CONQ,America_Central,128,0,128,60,Day,True,False,EAC,Production 2.0.2
+174-JB-00,Azagor,Big,DOMI,America_Central,128,0,128,60,Day,True,False,EAC,Production 2.0.2
+[TLR] Battlebit Blitz [EU #2] | discord.gg/tlr,District,Small,RUSH,Europe_Central,0,0,32,240,Day,False,True,EAC,Production 2.0.2
+Battle Boss Bit,Azagor,Tiny,TDM,America_Central,0,0,36,60,Day,False,True,EAC,Production 2.0.2 - Community Servers
+174-J8-05,Isle,Ultra,DOMI,America_Central,251,3,254,60,Day,True,False,EAC,Production 2.0.2
+174-J2-04,Isle,Ultra,CONQ,America_Central,253,1,254,60,Day,True,False,EAC,Production 2.0.2
+186-L8-03,SandySunset,Big,CONQ,America_Central,75,2,128,60,Day,True,False,EAC,Production 2.0.2
+176-JY-03,Construction,Big,DOMI,America_Central,127,1,128,60,Day,True,False,EAC,Production 2.0.2
+[TLR] Battlebit League #2 | discord.gg/tlr,District,Small,RUSH,Europe_Central,0,0,32,240,Day,False,True,EAC,Production 2.0.2
+[TLR] The Last Rifles [EU2] | discord.gg/tlr,SandySunset,Ultra,CONQ,Europe_Central,2,0,254,240,Day,False,False,EAC,Production 2.0.2
+174-JB-03,SandySunset,Ultra,DOMI,America_Central,165,2,254,60,Day,True,False,EAC,Production 2.0.2
+190-JC-00,WineParadise,Ultra,CONQ,Europe_Central,163,1,254,60,Day,True,False,EAC,Production 2.0.2
+176-JR-00,Frugis,Ultra,CONQ,America_Central,254,0,254,60,Day,True,False,EAC,Production 2.0.2
+174-JM-03,SandySunset,Ultra,CONQ,America_Central,250,4,254,60,Day,True,False,EAC,Production 2.0.2
+184-JG-00,TensaTown,Ultra,CONQ,America_Central,168,1,254,60,Day,True,False,EAC,Production 2.0.2
+174-82-00,Basra,Big,CONQ,America_Central,128,0,128,60,Day,True,False,EAC,Production 2.0.2
+174-JM-02,TensaTown,Medium,RUSH,America_Central,64,0,64,60,Day,True,False,EAC,Production 2.0.2
+176-AL-00,Salhan,Medium,RUSH,America_Central,64,0,64,60,Day,True,False,EAC,Production 2.0.2
+172-2G-00,Frugis,Medium,RUSH,Japan_Central,62,2,64,60,Day,True,False,EAC,Production 2.0.2
+186-LC-00,District,Medium,RUSH,America_Central,63,1,64,60,Day,True,False,EAC,Production 2.0.2
+174-8Y-04,Salhan,Medium,RUSH,America_Central,63,1,64,60,Day,True,False,EAC,Production 2.0.2
+[@Nikooo777] EliteHunterZ Test server (Admin Tools),Azagor,Small,TDM,Europe_Central,1,0,32,120,Day,False,False,EAC,Production 2.0.2 - Community Servers
+orell12 Dev Server,Isle,Medium,DOMI,Europe_Central,0,0,64,120,Day,False,True,EAC,Production 2.0.2 - Community Servers
+186-L7-03,SandySunset,Ultra,CONQ,America_Central,230,23,254,60,Day,True,False,EAC,Production 2.0.2
+174-J8-01,Basra,Ultra,CONQ,America_Central,253,1,254,60,Day,True,False,EAC,Production 2.0.2
+186-LC-04,Frugis,Medium,DOMI,America_Central,0,0,64,60,Day,True,False,EAC,Production 2.0.2
+177-J8-01,Salhan,Medium,DOMI,Europe_Central,51,1,64,60,Day,True,False,EAC,Production 2.0.2
+186-L7-02,Dustydew,Big,CONQ,America_Central,128,0,128,60,Day,True,False,EAC,Production 2.0.2
+186-LD-07,SandySunset,Big,DOMI,America_Central,127,1,128,60,Day,True,False,EAC,Production 2.0.2
+ [02][144Hz][Cla BR] Sem Chorar [64vs64],Frugis,Big,DOMI,Brazil_Central,117,1,128,144,Day,False,False,EAC,Production 2.0.2
+184-JG-03,SandySunset,Ultra,DOMI,America_Central,246,8,254,60,Day,True,False,EAC,Production 2.0.2
+186-LD-06,WineParadise,Medium,DOMI,America_Central,60,3,64,60,Day,True,False,EAC,Production 2.0.2
+184-JG-02,Eduardovo,Big,DOMI,America_Central,102,5,128,60,Day,True,False,EAC,Production 2.0.2
+BBRC Test Server 1,Azagor,Tiny,TDM,America_Central,0,0,16,120,Day,False,False,EAC,Production 2.0.1 - Community Servers
+[bloodisgood.eu] Zombies,Wakistan,Big,FRONTLINE,Europe_Central,0,0,128,60,Night,False,False,EAC,Production 2.0.2 - Community Servers
+[ASMR]小游戏循环 QUN:644195819,Salhan,Tiny,TDM,Asia_Central,1,0,36,120,Day,False,True,EAC,Production 2.0.2 - Community Servers
+172-BX-00,Wakistan,Ultra,CONQ,Japan_Central,225,3,254,60,Day,True,False,EAC,Production 2.0.2
+185-LV-01,District,Big,CONQ,America_Central,126,2,128,60,Day,True,False,EAC,Production 2.0.2
+Sledmore's Mini Game Server,WineParadise,Small,TDM,Europe_Central,0,0,32,120,Day,False,True,EAC,Production 2.0.1 - Community Servers
+[KERM] Test,SandySunset,Ultra,FRONTLINE,America_Central,1,0,254,144,Day,False,True,EAC,Production 2.0.2 - Community Servers
+174-8Y-03,Dustydew,Medium,RUSH,America_Central,63,1,64,60,Day,True,False,EAC,Production 2.0.2
+176-JY-01,District,Ultra,CONQ,America_Central,252,1,254,60,Day,True,False,EAC,Production 2.0.2
+194-J4-00,Isle,Ultra,DOMI,Australia_Central,104,1,254,60,Day,True,False,EAC,Production 2.0.2
+ [01][144Hz][Cla BR] Sem Chorar [127vs127],Frugis,Ultra,CONQ,Brazil_Central,250,4,254,144,Day,False,False,EAC,Production 2.0.2
+[TLR] Battlebit Blitz [EU #1] | discord.gg/tlr,Azagor,Small,TDM,Europe_Central,0,0,32,240,Day,False,True,EAC,Production 2.0.2
+186-LP-00,Wakistan,Ultra,DOMI,America_Central,251,2,254,60,Day,True,False,EAC,Production 2.0.2
+190-Y-00,Salhan,Medium,DOMI,Brazil_Central,64,0,64,60,Day,True,False,EAC,Production 2.0.2
+190-8Z-00,Salhan,Ultra,CONQ,Europe_Central,253,1,254,60,Day,True,False,EAC,Production 2.0.2
+174-J8-00,Salhan,Big,CONQ,America_Central,82,0,128,60,Day,True,False,EAC,Production 2.0.2
+ [03][144Hz][Cla BR] Sem Chorar [32vs32],SandySunset,Medium,DOMI,Brazil_Central,53,7,64,144,Day,False,False,EAC,Production 2.0.2
+194-BX-01,Frugis,Ultra,DOMI,Australia_Central,251,3,254,60,Day,True,False,EAC,Production 2.0.2
+ [04][240Hz][Cla BR] Sem Chorar [16vs16],River,Small,TDM,Brazil_Central,31,0,32,240,Day,False,False,EAC,Production 2.0.2
+174-J2-00,Namak,Big,DOMI,America_Central,90,1,128,60,Day,True,False,EAC,Production 2.0.2
+174-8Y-05,Namak,Medium,RUSH,America_Central,63,1,64,60,Day,True,False,EAC,Production 2.0.2
+184-JG-01,Salhan,Medium,RUSH,America_Central,62,1,64,60,Day,True,False,EAC,Production 2.0.2
+Modest Escalation (Team Gun Game),Lonovo,Tiny,TDM,America_Central,2,0,36,240,Day,False,False,EAC,Production 2.0.2 - Community Servers
+186-L8-00,TensaTown,Medium,DOMI,America_Central,59,5,64,60,Day,True,False,EAC,Production 2.0.2
+174-J8-04,Namak,Medium,RUSH,America_Central,63,0,64,60,Day,True,False,EAC,Production 2.0.2
+186-LC-01,District,Ultra,CONQ,America_Central,254,0,254,60,Day,True,False,EAC,Production 2.0.2
+174-8Y-06,Eduardovo,Medium,DOMI,America_Central,64,0,64,60,Day,True,False,EAC,Production 2.0.2
+24/7 Voxel Gamemode Testing,VoxelLand,Ultra,VoxelFortify,Developer_Server,29,0,254,60,Day,True,False,EAC,Production 2.0.2
+Lonely Test,Azagor,Tiny,TDM,Europe_Central,0,0,36,240,Day,False,True,EAC,Production 2.0.1 - Community Servers
+176-JR-01,Wakistan,Ultra,CONQ,America_Central,243,11,254,60,Day,True,False,EAC,Production 2.0.2
+174-J2-02,SandySunset,Ultra,CONQ,America_Central,249,5,254,60,Day,True,False,EAC,Production 2.0.2
+[TLR] Battlebit League #1 | discord.gg/tlr,District,Small,RUSH,Europe_Central,0,0,32,240,Day,False,True,EAC,Production 2.0.2
+186-L7-01,Lonovo,Medium,RUSH,America_Central,61,2,64,60,Day,True,False,EAC,Production 2.0.2
+[TLR] The Last Rifles [EU5] | discord.gg/tlr,Azagor,Medium,RUSH,Europe_Central,0,0,64,240,Day,False,False,EAC,Production 2.0.2
+177-8Q-00,Isle,Big,DOMI,Europe_Central,3,0,128,60,Day,True,False,EAC,Production 2.0.2
+174-J8-03,District,Medium,RUSH,America_Central,61,3,64,60,Day,True,False,EAC,Production 2.0.2
+194-JJ-01,Wakistan,Big,CONQ,America_Central,128,0,128,60,Day,True,False,EAC,Production 2.0.2
+189-8N-00,District,Ultra,CONQ,Europe_Central,130,0,254,60,Day,True,False,EAC,Production 2.0.2
+194-JJ-00,District,Ultra,CONQ,America_Central,253,1,254,60,Day,True,False,EAC,Production 2.0.2
+176-AL-03,Dustydew,Ultra,CONQ,America_Central,254,0,254,60,Day,True,False,EAC,Production 2.0.2
+174-JM-00,Isle,Ultra,CONQ,America_Central,252,2,254,60,Day,True,False,EAC,Production 2.0.2
+177-8V-03,Salhan,Big,DOMI,Europe_Central,123,0,128,60,Day,True,False,EAC,Production 2.0.2
+Carley YOU SUGGEST GAMEMODES [discord.gg/Carley],District,Ultra,CONQ,America_Central,0,0,254,120,Day,False,True,EAC,Production 2.0.1 - Community Servers
+177-2D-00,Salhan,Ultra,DOMI,Brazil_Central,236,9,254,60,Day,True,False,EAC,Production 2.0.2
+[TLR] The Last Rifles [EU3] | discord.gg/tlr,River,Ultra,CONQ,Europe_Central,2,0,254,240,Day,False,False,EAC,Production 2.0.2
+174-J2-01,Valley,Big,CONQ,America_Central,126,2,128,60,Day,True,False,EAC,Production 2.0.2
+174-JM-01,Wakistan,Ultra,DOMI,America_Central,251,3,254,60,Day,True,False,EAC,Production 2.0.2
+174-8Y-02,Lonovo,Ultra,CONQ,America_Central,253,1,254,60,Day,True,False,EAC,Production 2.0.2
+186-LC-02,River,Medium,DOMI,America_Central,64,0,64,60,Day,True,False,EAC,Production 2.0.2
+DasIschBims Testserver,Azagor,Small,TDM,Europe_Central,0,0,32,120,Day,False,False,EAC,Production 2.0.2 - Community Servers
+186-L8-04,Valley,Big,DOMI,America_Central,118,10,128,60,Day,True,False,EAC,Production 2.0.2
+186-LC-03,WineParadise,Medium,DOMI,America_Central,64,0,64,60,Day,True,False,EAC,Production 2.0.2
+174-JB-01,Lonovo,Ultra,CONQ,America_Central,239,15,254,60,Night,True,False,EAC,Production 2.0.2
+176-AL-01,Basra,Ultra,CONQ,America_Central,253,0,254,60,Day,True,False,EAC,Production 2.0.2
+176-JR-02,Namak,Big,DOMI,America_Central,123,5,128,60,Day,True,False,EAC,Production 2.0.2
+177-JD-01,Salhan,Medium,RUSH,Europe_Central,43,0,64,60,Day,True,False,EAC,Production 2.0.2
+177-JN-00,Namak,Medium,RUSH,Europe_Central,63,1,64,60,Day,True,False,EAC,Production 2.0.2
+174-8Y-00,TensaTown,Medium,RUSH,America_Central,63,1,64,60,Day,True,False,EAC,Production 2.0.2
+194-JJ-02,Wakistan,Ultra,CONQ,America_Central,251,2,254,60,Day,True,False,EAC,Production 2.0.2
+[TLR] PUGS #1 | discord.gg/tlr,District,Small,RUSH,Europe_Central,1,0,32,240,Day,False,True,EAC,Production 2.0.2
+BattleBitFriends | Discord.gg/BBFriends,Eduardovo,Ultra,CONQ,America_Central,1,0,254,120,Day,False,True,EAC,Production 2.0.2
+172-2R-00,Wakistan,Ultra,DOMI,Japan_Central,254,0,254,60,Day,True,False,EAC,Production 2.0.2
+[CUSTOM GAMEMODE] [io] THE CLONE,Azagor,Ultra,CONQ,Europe_Central,0,0,254,120,Day,False,False,EAC,Production 2.0.1 - Community Servers
+186-LD-04,Azagor,Medium,RUSH,America_Central,62,2,64,60,Day,True,False,EAC,Production 2.0.2
+Abusement Park | 24/7 Rush | 32v32 | Random Game Modifiers | discord.gg/,Dustydew,Tiny,TDM,Europe_Central,0,0,36,60,Day,False,True,EAC,Production 2.0.2 - Community Servers
+186-L8-01,TensaTown,Medium,RUSH,America_Central,47,4,64,60,Day,True,False,EAC,Production 2.0.2
+186-LD-01,Namak,Medium,RUSH,America_Central,64,0,64,60,Day,True,False,EAC,Production 2.0.2
+UNITED-GAMING [https://discord.gg/KsfM3Ymcve],TensaTown,Ultra,CONQ,Europe_Central,9,0,254,60,Day,False,True,EAC,Production 2.0.1 - Community Servers
+185-LV-02,OilDunes,Ultra,DOMI,America_Central,254,0,254,60,Day,True,False,EAC,Production 2.0.2
+186-LD-00,Eduardovo,Big,DOMI,America_Central,110,12,128,60,Day,True,False,EAC,Production 2.0.2
+176-JY-00,SandySunset,Ultra,CONQ,America_Central,252,2,254,60,Day,True,False,EAC,Production 2.0.2
+176-JY-02,Basra,Big,CONQ,America_Central,127,1,128,60,Day,True,False,EAC,Production 2.0.2
+[TLR] The Last Rifles [EU6] | discord.gg/tlr,Construction,Small,TDM,Europe_Central,14,0,32,240,Day,False,False,EAC,Production 2.0.2
+174-JB-02,SandySunset,Ultra,CONQ,America_Central,251,3,254,60,Day,True,False,EAC,Production 2.0.2
+[TLR] The Last Rifles [EU4] | discord.gg/tlr,WineParadise,Big,CONQ,Europe_Central,0,0,128,240,Day,False,False,EAC,Production 2.0.2
+177-24-00,Salhan,Ultra,CONQ,Brazil_Central,253,1,254,60,Day,True,False,EAC,Production 2.0.2
+Gun Game Test,Salhan,Tiny,TDM,Europe_Central,0,0,32,120,Day,False,True,EAC,Production 2.0.2 - Community Servers
+177-J7-03,District,Big,CONQ,Europe_Central,84,0,128,60,Day,True,False,EAC,Production 2.0.2
