@@ -1,7 +1,7 @@
 # Battlebit Remastered
 Data analysis project that collects game server data via the server status API and explores the findings.
 
-## Getting the data
+## Getting the data | **ETL**
 
 This project uses GitHub Actions to pull in data with Python.
 
