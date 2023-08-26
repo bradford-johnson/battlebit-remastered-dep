@@ -13,5 +13,5 @@ Pulls the server data in each hour as `JSON` and converts to `CSV`.
 
 Combines all `CSV` files into one, and clears the "data staging" directory when done.
 
-### Disclaimer
+## Disclaimer
 Just a quick heads-up – this project is a **personal endeavor** and not affiliated with or endorsed by the creators of [BattleBit Remastered](https://joinbattlebit.com/). I enjoy the game and thought it would be fun to work on this project in my spare time.
