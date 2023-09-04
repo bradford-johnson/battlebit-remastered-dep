@@ -4,6 +4,15 @@ from datetime import datetime
 
 
 def combine_csv_files(data_directory):
+    """
+    Combine all CSV files in the data directory into a single data frame.
+
+    Args:
+        data_directory (str): Path to the directory containing the CSV files
+
+    Returns:
+        pandas.DataFrame: Combined data frame
+    """
     csv_files = [file for file in os.listdir(
         data_directory) if file.endswith(".csv")]
 
@@ -31,6 +40,16 @@ def combine_csv_files(data_directory):
 
 
 def save_combined_data(combined_data_frame, output_file):
+    """
+    Save the combined data frame to a CSV file.
+
+    Args:
+        combined_data_frame (pandas.DataFrame): Combined data frame
+        output_file (str): Path to the output file
+
+    Returns:
+        None
+    """
     if os.path.exists(output_file):
         previous_combined_data = pd.read_csv(output_file)
         appended_data_frame = pd.concat(
